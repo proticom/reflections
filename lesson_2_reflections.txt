@@ -1,2 +1,5 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is where files that are going to be committed go.  The working directory is all of the files.  The repository is one that is gitted.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By only committing the files that have the changes related to the logical change.
