@@ -12,3 +12,6 @@ Helps to see how commits will impact branch.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It allows changes in multiple branches to be combined
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git's automatic merging is fast and efficient.  Cons are that it doesn't always work.
